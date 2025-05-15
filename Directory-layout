@@ -1,0 +1,18 @@
+blue-bamboo-theme/
+├── assets/
+├── config/
+│   └── settings_schema.json
+├── layout/
+│   └── theme.liquid
+├── locales/
+│   └── en.default.json
+├── sections/
+│   └── hero-banner.liquid
+│   └── featured-products.liquid
+├── snippets/
+│   └── ...
+├── templates/
+│   └── index.json
+│   └── page.about.json
+│   └── page.contact.json
+├── config.yml (for GitHub)
